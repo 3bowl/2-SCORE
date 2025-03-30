@@ -12,7 +12,7 @@
 
 * Input 0-9 for numbers
 
-**Features**
+***Features:***
 
 * Reprompts the user if the input doesn't make sense
 
